@@ -1,0 +1,13 @@
+$fontMedium: Ubuntu-Medium;
+$fontBold: Ubuntu-Bold;
+$fontLight: Ubuntu-Light;
+$fontRegular: Ubuntu-Regular;
+
+.landing-header {
+  h1 {
+    font-family: $fontMedium;
+  }
+  p {
+    font-family: $fontLight;
+  }
+}
