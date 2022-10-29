@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/LCS-Covid-Tracker/static/css/main.bde24eef.css",
+    "main.js": "/LCS-Covid-Tracker/static/js/main.2957de72.js",
+    "static/media/Ubuntu-Light.ttf": "/LCS-Covid-Tracker/static/media/Ubuntu-Light.0dd2d5986e2731a16ee7.ttf",
+    "static/media/Ubuntu-Regular.ttf": "/LCS-Covid-Tracker/static/media/Ubuntu-Regular.1cbb1b79a23478cc89ad.ttf",
+    "static/media/Ubuntu-Medium.ttf": "/LCS-Covid-Tracker/static/media/Ubuntu-Medium.e37c5546eb1a6efc4818.ttf",
+    "static/media/Ubuntu-Bold.ttf": "/LCS-Covid-Tracker/static/media/Ubuntu-Bold.fec2d0f1431a6114a6ce.ttf",
+    "index.html": "/LCS-Covid-Tracker/index.html",
+    "main.bde24eef.css.map": "/LCS-Covid-Tracker/static/css/main.bde24eef.css.map",
+    "main.2957de72.js.map": "/LCS-Covid-Tracker/static/js/main.2957de72.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bde24eef.css",
+    "static/js/main.2957de72.js"
+  ]
+}
